@@ -22,7 +22,7 @@
 - **Other:** Business analysis, Communication skills, Interpersonal skills, User Persona, Product lifecycle, Data solutions, Data analytics, Change Management, Time Management, Root Cause Analysis, Data Modeling, Data Visualization, Forecasting, Team Collaboration
 
 ## Certifications
-- [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1EKLMyqh9AW-DaN9L6S4mtIBLkEtOj2Yd/view)
+- AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate
 - Google Data Analytics Professional
 - Asana Workflow Specialist
