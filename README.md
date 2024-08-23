@@ -1,4 +1,5 @@
 # Nijat Hajiyev - Business Analyst
+#### [Linkedin profile](https://www.linkedin.com/in/nijathajiyevv/)
 
 🔍 5 years experienced Business Analyst specializing in data, automations, data driven decision making and project management. An empathetic team player and mentor. Proficient in Oracle SQL, AWS Cloud, Power BI, Excel, PM, Agile.
 
